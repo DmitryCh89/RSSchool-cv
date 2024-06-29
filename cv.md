@@ -48,3 +48,8 @@ I have no experience in software development.
 * [RS School (JavaScript / Front-end Course, Pre-school)](https://rs.school/courses/javascript-preschool-ru) (ongoing).
 * [MDN](https://developer.mozilla.org/ru/docs/Learn) Learning Area (ongoing).
 * [freeCodeCamp](https://www.freecodecamp.org/learn) (ongoing).
+
+## English language:
+
+* A1 - elementary.
+* Duolingo score: 26626 (ongoing).
