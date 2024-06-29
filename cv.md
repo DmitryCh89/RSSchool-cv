@@ -37,3 +37,14 @@ function countPositivesSumNegatives(input) {
   }
 }
 ```
+
+## Work Experience:
+
+I have no experience in software development.
+
+## Education:
+
+* BSTU (Belarusian State Technological University), Chemical Technology Engineer.
+* [RS School (JavaScript / Front-end Course, Pre-school)](https://rs.school/courses/javascript-preschool-ru) (ongoing).
+* [MDN](https://developer.mozilla.org/ru/docs/Learn) Learning Area (ongoing).
+* [freeCodeCamp](https://www.freecodecamp.org/learn) (ongoing).
