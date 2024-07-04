@@ -1,0 +1,54 @@
+a:hover {
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+body {
+  width: 100%;
+  max-width: 720px;
+  min-width: 320px;
+  margin: 0px auto;
+  background-color: #139fd6;
+}
+
+header, nav, main, footer {
+  background-color: #fdf14c;
+  padding: 10px;
+  border: 5px solid rgb(43, 194, 43);
+  margin: 10px;
+  border-radius: 25px/25px;
+}
+
+code {
+  display: block;
+  background-color: #65ec83;
+}
+
+.footer {
+  background-color: #d15757;
+}
+
+footer {
+  display: flex;
+}
+
+.footer {
+  margin-left: 20px;
+}
+
+.myAvatar {
+  float: left;
+  margin: 10px;
+  box-shadow: 10px 10px 10px #d15757;
+}
+
+header {
+  display: flex;
+}
