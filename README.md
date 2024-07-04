@@ -1,1 +1,1 @@
-https://DmitryCh89.github.io/rsschool-cv/index.html
+https://DmitryCh89.github.io/rsschool-cv/
